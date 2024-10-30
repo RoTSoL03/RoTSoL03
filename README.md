@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on C4U for our Pitch-Up using flutter!
+- 🌱 I’m currently learning Flutter, React Native, Python, ODOO
+- ⚡ Fun fact: Programming is fun!
 <!--
 **RoTSoL03/RoTSoL03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
