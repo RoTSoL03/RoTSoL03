@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Welcome fellow nonsleepers!
+I'm a HUMAN, from EARTH!</h2>
 
 ###
 
