@@ -69,4 +69,4 @@ I'm a HUMAN, from EARTH!</h2>
 
 ###
 
-<a href="https://app.daily.dev/photogrammer"><img src="https://api.daily.dev/devcards/v2/q4XYajU9gmun3rDFBUFRh.png?type=wide&r=wok" width="652" alt="Stephen Kurt Mapili's Dev Card"/></a>
+<a href="https://app.daily.dev/photogrammer"><img src="https://api.daily.dev/devcards/v2/q4XYajU9gmun3rDFBUFRh.png?type=wide&r=jam" width="652" alt="Stephen Kurt Mapili's Dev Card"/></a>
